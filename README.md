@@ -35,7 +35,7 @@ Expo Router
 
 Projekt ma charakter edukacyjny i będzie systematycznie rozwijany podczas kolejnych zajęć.
 
-🛠 Charakter pracy
+ Charakter pracy
 
 Projekt realizowany w celach edukacyjnych
 
