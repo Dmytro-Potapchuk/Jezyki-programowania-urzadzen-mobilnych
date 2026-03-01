@@ -21,7 +21,7 @@ Projekt edukacyjny
 Projekt został wykonany w ramach przedmiotu
 „Języki programowania urządzeń mobilnych”.
 
-🎯 Cel projektu
+ Cel projektu
 
 Celem projektu jest stopniowe opanowanie technologii mobilnych z wykorzystaniem:
 
@@ -43,7 +43,7 @@ Każde kolejne zajęcia będą kontynuowane w osobnym branchu
 
 Repozytorium dokumentuje postęp nauki i rozwój aplikacji
 
-🚀 Technologie wykorzystane w projekcie
+ Technologie wykorzystane w projekcie
 
 React Native
 
@@ -53,6 +53,6 @@ TypeScript
 
 Expo Router
 
-👤 Autor
+ Autor
 
 Dmytro Potapchuk
