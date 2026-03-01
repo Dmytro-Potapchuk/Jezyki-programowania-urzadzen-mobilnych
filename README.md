@@ -56,3 +56,8 @@ Expo Router
  Autor
 
 Dmytro Potapchuk
+
+Informacje dodatkowe
+
+Projekt realizowany w ramach zajęć akademickich.
+Kod ma charakter dydaktyczny i służy do nauki programowania urządzeń mobilnych.
